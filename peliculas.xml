@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--Listado de peliculas-->
+<peliculas>
+  <pelicula codigo="00001">
+    <titulo>LA BELLA Y EL DEVELOPER</titulo>
+    <añopublicacion>2012</añopublicacion>
+    <genero>COMDEDIA</genero>
+    <estado>DISPONIBLE</estado>
+  </pelicula>
+  <pelicula codigo="00002">
+    <titulo>AVENGERS</titulo>
+    <añopublicacion>2014</añopublicacion>
+    <genero>ACCION</genero>
+    <estado>DISPONIBLE</estado>
+  </pelicula>
+  <pelicula codigo="00003">
+    <titulo>CAPERUCITA ROJA</titulo>
+    <añopublicacion>2013</añopublicacion>
+    <genero>INFANTIL</genero>
+    <estado>DISPONIBLE</estado>
+  </pelicula>
+  <pelicula codigo="00004">
+    <titulo>XMEN</titulo>
+    <añopublicacion>2010</añopublicacion>
+    <genero>ACCION</genero>
+    <estado>OCUPADO</estado>
+  </pelicula>
+  <pelicula codigo="00005">
+    <titulo>SIN TECLAS NO HAY PARAISO</titulo>
+    <añopublicacion>2013</añopublicacion>
+    <genero>COMEDIA</genero>
+    <estado>DISPONIBLE</estado>
+  </pelicula>
+  <pelicula codigo="00006">
+    <titulo>THOR 2</titulo>
+    <añopublicacion>2012</añopublicacion>
+    <genero>FICCION</genero>
+    <estado>DISPONIBLE</estado>
+  </pelicula>
+  <pelicula codigo="00007">
+    <titulo>EL CODIGO LINUX</titulo>
+    <añopublicacion>2013</añopublicacion>
+    <genero>COMEDIA</genero>
+    <estado>DISPONIBLE</estado>
+  </pelicula>
+  <pelicula codigo="00008">
+    <titulo>THOR</titulo>
+    <añopublicacion>2014</añopublicacion>
+    <genero>FICCION</genero>
+    <estado>DISPONIBLE</estado>
+  </pelicula>
+  <pelicula codigo="00009">
+    <titulo>SPIDERMAN 2</titulo>
+    <añopublicacion>2014</añopublicacion>
+    <genero>FICCION</genero>
+    <estado>DISPONIBLE</estado>
+  </pelicula>
+  <pelicula codigo="00010">
+    <titulo>LOS PROGRAMADORES TAMBIEN LLORAN</titulo>
+    <añopublicacion>2013</añopublicacion>
+    <genero>COMEDIA</genero>
+    <estado>DISPONIBLE</estado>
+  </pelicula>
+  <pelicula codigo="00011">
+    <titulo>AVATAR</titulo>
+    <añopublicacion>2001</añopublicacion>
+    <genero>FICCION</genero>
+    <estado>DISPONIBLE</estado>
+  </pelicula>
+  <pelicula codigo="00012">
+    <titulo>GITMAN</titulo>
+    <añopublicacion>2001</añopublicacion>
+    <genero>ACCION</genero>
+    <estado>DISPONIBLE</estado>
+  </pelicula>
+</peliculas>

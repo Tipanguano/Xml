@@ -1,0 +1,5 @@
+D:\xavier\pack de proyectos\Visual Studio\Soluciones\proyectoClub\pruebas\bin\Debug\pruebas.exe
+D:\xavier\pack de proyectos\Visual Studio\Soluciones\proyectoClub\pruebas\bin\Debug\pruebas.pdb
+D:\xavier\pack de proyectos\Visual Studio\Soluciones\proyectoClub\pruebas\obj\Debug\pruebas.exe
+D:\xavier\pack de proyectos\Visual Studio\Soluciones\proyectoClub\pruebas\obj\Debug\pruebas.pdb
+D:\xavier\pack de proyectos\Visual Studio\Soluciones\proyectoClub\pruebas\obj\Debug\pruebas.csprojResolveAssemblyReference.cache

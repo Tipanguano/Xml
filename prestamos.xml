@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--Listado de prestamos-->
+<prestamos>
+  <prestamo id="1">
+    <cliente cedula="0940587637">
+      <nombres>Edwin Xavier</nombres>
+      <apellidos>Tipanguano Muyolema</apellidos>
+    </cliente>
+    <pelicula codigo="00004">
+      <titulo>XMEN</titulo>
+      <genero>ACCION</genero>
+    </pelicula>
+    <fechaPrestada>17/01/2015</fechaPrestada>
+    <fechaCaducar>22/01/2015</fechaCaducar>
+    <caducidad>5</caducidad>
+  </prestamo>
+</prestamos>

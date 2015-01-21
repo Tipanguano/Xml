@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--Listado de clientes4-->
+<clientes>
+  <cliente dni="0940587637">
+    <nombres>Edwin Xavier</nombres>
+    <apellidos>Tipanguano Muyolema</apellidos>
+  </cliente>
+  <cliente dni="0979559361">
+    <nombres>Ana Maria</nombres>
+    <apellidos>Coveña Lara</apellidos>
+  </cliente>
+  <cliente dni="0988779955">
+    <nombres>Paulo</nombres>
+    <apellidos>Coello</apellidos>
+  </cliente>
+  <cliente dni="0955112233">
+    <nombres>Miguel Luis</nombres>
+    <apellidos>Cortez Meneses</apellidos>
+  </cliente>
+  <cliente dni="0845254125">
+    <nombres>Fernando</nombres>
+    <apellidos>Reyes Franco</apellidos>
+  </cliente>
+  <cliente dni="0845256532">
+    <nombres>Estela Maria</nombres>
+    <apellidos>Villamar Perez</apellidos>
+  </cliente>
+  <cliente dni="0978451236">
+    <nombres>Xavi</nombres>
+    <apellidos>Hernandez</apellidos>
+  </cliente>
+  <cliente dni="0999999999">
+    <nombres>Xavier Carlos</nombres>
+    <apellidos>Mora Valverde</apellidos>
+  </cliente>
+  <cliente dni="2100372016">
+    <nombres>Uribe Perez</nombres>
+    <apellidos>Ojeda Rodriguez</apellidos>
+  </cliente>
+</clientes>

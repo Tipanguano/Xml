@@ -1,0 +1,5 @@
+D:\xavier\pack de proyectos\Visual Studio\Soluciones\proyectoClub\ClubPeliculas\bin\Debug\ClubPeliculas.exe
+D:\xavier\pack de proyectos\Visual Studio\Soluciones\proyectoClub\ClubPeliculas\bin\Debug\ClubPeliculas.pdb
+D:\xavier\pack de proyectos\Visual Studio\Soluciones\proyectoClub\ClubPeliculas\obj\Debug\ClubPeliculas.csprojResolveAssemblyReference.cache
+D:\xavier\pack de proyectos\Visual Studio\Soluciones\proyectoClub\ClubPeliculas\obj\Debug\ClubPeliculas.exe
+D:\xavier\pack de proyectos\Visual Studio\Soluciones\proyectoClub\ClubPeliculas\obj\Debug\ClubPeliculas.pdb
